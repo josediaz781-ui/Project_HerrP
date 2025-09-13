@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.log
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+packages/

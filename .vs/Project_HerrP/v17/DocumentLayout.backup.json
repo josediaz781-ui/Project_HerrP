@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\productosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\productosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\seguridadform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\seguridadform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\seguridadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\seguridadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\productosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\productosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|c:\\users\\compumax\\documents\\ui_pb\\hp\\project_herrp\\project_herrp\\seguridadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F236534-98F4-4525-AE37-764F20C4F5CF}|Project_HerrP\\Project_HerrP.csproj|solutionrelative:project_herrp\\seguridadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConexion.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\DBConexion.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\DBConexion.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\DBConexion.cs",
+              "RelativeToolTip": "Project_HerrP\\DBConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:50:23.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeguridadForm.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\SeguridadForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\SeguridadForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\SeguridadForm.cs",
+              "RelativeToolTip": "Project_HerrP\\SeguridadForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:17:16.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosForm.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ProductosForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\ProductosForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ProductosForm.cs",
+              "RelativeToolTip": "Project_HerrP\\ProductosForm.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:07:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ProductosForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\ProductosForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ProductosForm.cs [Design]",
+              "RelativeToolTip": "Project_HerrP\\ProductosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:19:08.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesForm.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ClientesForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\ClientesForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ClientesForm.cs",
+              "RelativeToolTip": "Project_HerrP\\ClientesForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwHwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:01:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ClientesForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\ClientesForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\ClientesForm.cs [Design]",
+              "RelativeToolTip": "Project_HerrP\\ClientesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:14:24.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\HomeForm.cs",
+              "RelativeToolTip": "Project_HerrP\\HomeForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T22:17:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\HomeForm.cs [Design]",
+              "RelativeToolTip": "Project_HerrP\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T22:06:23.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\Form1.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\Form1.cs [Design]",
+              "RelativeToolTip": "Project_HerrP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:59:18.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\Form1.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\Form1.cs",
+              "RelativeToolTip": "Project_HerrP\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:36:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeguridadForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\SeguridadForm.Designer.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\SeguridadForm.Designer.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\SeguridadForm.Designer.cs",
+              "RelativeToolTip": "Project_HerrP\\SeguridadForm.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:37:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeguridadForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\SeguridadForm.cs",
+              "RelativeDocumentMoniker": "Project_HerrP\\SeguridadForm.cs",
+              "ToolTip": "C:\\Users\\COMPUMAX\\Documents\\UI_PB\\hp\\Project_HerrP\\Project_HerrP\\SeguridadForm.cs [Design]",
+              "RelativeToolTip": "Project_HerrP\\SeguridadForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:23:03.789Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
